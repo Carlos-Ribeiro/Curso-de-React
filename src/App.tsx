@@ -1,9 +1,10 @@
-import './App.css'
+import "./App.css";
 
 function App() {
   return (
-    <h1>Olá Mundo!</h1>
-  )
+    <div>
+      <h2>Olá Mundo!</h2>
+    </div>
+  );
 }
-
-export default App
+export default App;
